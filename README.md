@@ -19,7 +19,7 @@ This is a simple web application that fetches current weather data for a specifi
 ## Setup
 
 1. **Clone the repository:**
-# Using the Application
+## Using the Application
 
 ### Open the Application:
 
